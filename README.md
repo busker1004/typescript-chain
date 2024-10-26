@@ -1,0 +1,1 @@
+## Project implementing very simple blockchain in typscript.
